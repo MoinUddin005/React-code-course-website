@@ -16,7 +16,7 @@ const Footer = () => {
      
       <section
                className="d-flex justify-content-between p-4"
-               style={{"background-color": "#6351ce"}}
+               style={{"background-color": "#FF00FF"}}
                
                >
       
@@ -102,15 +102,7 @@ const Footer = () => {
         </div>
       </section>
      
-      {/* <div
-           className="text-center p-3"
-          //  style="background-color: rgba(0, 0, 0, 0.2)"
-           >
-        © 2021 Copyright:
-        <a className="text-white" href="https://mdbootstrap.com/"
-           >github.com/jahid.com</a
-          >
-      </div> */}
+      
       
     </footer>
   
